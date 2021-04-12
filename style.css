@@ -1,0 +1,45 @@
+body,#cc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Oleo Script', cursive;
+}
+
+#c {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    padding: 30px;
+    border-radius: 25%;
+}
+
+#ic {
+    width: 200px;
+    height: 200px;
+    border: 10px solid #fff;
+    border-radius: 25%;
+
+}
+
+#icc {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 15px solid #fff;
+    margin: 50px;
+}
+
+#dot {
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    border-radius: 50%;
+    float: right;
+    margin: 20px;
+}
+
+#p {
+    font-size: 3rem;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+}
