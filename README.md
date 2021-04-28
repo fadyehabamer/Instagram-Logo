@@ -1,3 +1,3 @@
 # Instagram Logo 
 > Using 
-  * CSS 
+  * only CSS 
